@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Luan 👋
 
-[![Linkedin: lucas-luan-dos-santos](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-luan-dos-santos/)](https://www.linkedin.com/in/lucas-luan-dos-santos/)
+[![Linkedin: lucas-luan-dos-santos](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-luan-dos-santos/)](https://www.linkedin.com/in/lucas-luan-dos-santos/){:target="_blank"}
 [![Gmail: lucaslsantos02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslsantos02@gmail.com)
 
 - 🔭 Atualmente estou trabalhando com Front-end
