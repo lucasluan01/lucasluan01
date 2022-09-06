@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou trabalhando com Front-end
 - 🌱 Estudando Angular
-- ⚡ Curiosidade: As músicas antigas são as melhores!!
 
 <a href="https://www.linkedin.com/in/lucas-luan-dos-santos/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-luan-dos-santos/"      alt="Linkedin: lucas-luan-dos-santos"></img>
