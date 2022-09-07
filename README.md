@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-luan-dos-santos/"      alt="Linkedin: lucas-luan-dos-santos"></img>
 </a>
 
-<a href="mailto:lucaslsantos02@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: lucaslsantos02@gmail.com"></img>
+<a href="mailto:lucas.l.santos0204@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: lucas.l.santos0204@gmail.com"></img>
 </a>
 
 ## 💻 Tecnologias
